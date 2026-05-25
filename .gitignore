@@ -1,2 +1,3 @@
 # Ignore the SQL queries file (sensitive)
 my-library-api/queries.sql
+/.vs
